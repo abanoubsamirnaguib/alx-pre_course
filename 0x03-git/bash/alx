@@ -1,8 +1,4 @@
 #!/bin/bash
 echo "ALX"
 echo 'ALX STUDENT'
-<<<<<<< HEAD
-echo 'ALX STUDENT 2'
-=======
->>>>>>> 050472eb54d27945f637159002b2dc7cd7034fe3
 echo 'ALX School'
